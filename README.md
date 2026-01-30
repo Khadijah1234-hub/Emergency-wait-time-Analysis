@@ -1,8 +1,8 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #1f2937;">
 
-  <h1 style="color:#0f172a;">🏥 Emergency Department Wait Time & Patient Flow Analysis</h1>
+  <h1 style="color:#0f172a;"> Emergency Department Wait Time & Patient Flow Analysis</h1>
 
-  <h2 style="color:#1d4ed8;">📁 Repository Description</h2>
+  <h2 style="color:#1d4ed8;"> Repository Description</h2>
   <p>
     This repository documents a healthcare data analytics project focused on analyzing 
     <strong>emergency department (ED) wait times and patient flow performance</strong> across multiple hospitals.
@@ -10,7 +10,7 @@
     staffing inefficiencies, and their impact on patient satisfaction and outcomes.
   </p>
 
-  <h2 style="color:#1d4ed8;">📌 Project Overview</h2>
+  <h2 style="color:#1d4ed8;"> Project Overview</h2>
   <p>
     Emergency departments often experience overcrowding and long wait times, which can negatively affect
     patient experience and clinical outcomes. This project explores ED operational data to understand how
@@ -18,7 +18,7 @@
     and patient flow.
   </p>
 
-  <h2 style="color:#1d4ed8;">🎯 Project Objectives</h2>
+  <h2 style="color:#1d4ed8;"> Project Objectives</h2>
   <ul>
     <li>Analyze emergency wait time trends by time of day, week, month, and season</li>
     <li>Compare wait times across hospitals and regions (urban vs rural)</li>
@@ -27,14 +27,14 @@
     <li>Evaluate the relationship between wait times, patient satisfaction, and outcomes</li>
   </ul>
 
-  <h2 style="color:#1d4ed8;">🛠️ Tools & Technologies</h2>
+  <h2 style="color:#1d4ed8;"> Tools & Technologies</h2>
   <ul>
     <li><strong>Excel</strong> – data cleaning, KPI calculations, exploratory analysis</li>
     <li><strong>Power Query</strong> – data transformation and date table creation</li>
     <li><strong>Power BI</strong> – data modeling, DAX measures, interactive dashboards</li>
   </ul>
 
-  <h2 style="color:#1d4ed8;">📊 Key Metrics Analyzed</h2>
+  <h2 style="color:#1d4ed8;"> Key Metrics Analyzed</h2>
   <ul>
     <li>Total patients</li>
     <li>Average total wait time</li>
@@ -46,7 +46,7 @@
     <li>Patient satisfaction score</li>
   </ul>
 
-  <h2 style="color:#1d4ed8;">🔍 Key Insights</h2>
+  <h2 style="color:#1d4ed8;"> Key Insights</h2>
   <ul>
     <li>Wait times peak during afternoons and evenings, especially on weekdays</li>
     <li>Urban hospitals experience longer average wait times than rural hospitals</li>
@@ -57,7 +57,7 @@
     <li>Higher patient volumes and delays occur during winter and fall</li>
   </ul>
 
-  <h2 style="color:#1d4ed8;">📈 Dashboard Preview</h2>
+  <h2 style="color:#1d4ed8;"> Dashboard Preview</h2>
   <p>
     The Power BI dashboard provides interactive insights into:
   </p>
@@ -69,21 +69,13 @@
   </ul>
   <p><em>Dashboard screenshots are available in the <code>/images</code> folder.</em></p>
 
-  <h2 style="color:#1d4ed8;">💡 Recommendations</h2>
+  <h2 style="color:#1d4ed8;"> Recommendations</h2>
   <ul>
     <li>Align staffing schedules with peak demand periods</li>
     <li>Improve throughput in the medical consultation phase</li>
     <li>Plan staffing and capacity proactively for high-demand seasons</li>
     <li>Use wait-time KPIs to reduce patient walk-outs</li>
   </ul>
-
-### Overview Dashboard
-
-![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
-
-### Patient Outcomes
-![Outcomes](<img width="1349" height="752" alt="Screenshot 2026-01-28 142346" src="https://github.com/user-attachments/assets/a2339f41-9d0c-4f4b-ac3b-8924697bf191" />
-)
 
   <h2 style="color:#1d4ed8;"> Key Learnings</h2>
   <ul>
