@@ -82,8 +82,7 @@
 ### Overview Dashboard
 ![Overview]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 142346.png")
 
-### Staffing vs Wait Time
-![Staffing Analysis](images/staffing_analysis.png)
+![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
 
 ### Patient Outcomes
 ![Outcomes](<img width="1349" height="752" alt="Screenshot 2026-01-28 142346" src="https://github.com/user-attachments/assets/a2339f41-9d0c-4f4b-ac3b-8924697bf191" />
