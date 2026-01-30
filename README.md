@@ -82,8 +82,17 @@
 Emergency-Wait-Time-Analysis/
 │── README.md
 │
-├── data/
-│   └── emergency_wait_time_dataset.csv
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 142346.png")
+
+### Staffing vs Wait Time
+![Staffing Analysis](images/staffing_analysis.png)
+
+### Patient Outcomes
+![Outcomes](images/outcomes.png)
+
 │
 ├── powerbi/
 │   └── Emergency_Wait_Time_Dashboard.pbix
