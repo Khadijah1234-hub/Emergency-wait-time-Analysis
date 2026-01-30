@@ -78,7 +78,6 @@
   </ul>
 
 ### Overview Dashboard
-![Overview]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 142346.png")
 
 ![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
 
@@ -86,10 +85,7 @@
 ![Outcomes](<img width="1349" height="752" alt="Screenshot 2026-01-28 142346" src="https://github.com/user-attachments/assets/a2339f41-9d0c-4f4b-ac3b-8924697bf191" />
 )
 
-│]
-  </pre>
-
-  <h2 style="color:#1d4ed8;">📘 Key Learnings</h2>
+  <h2 style="color:#1d4ed8;"> Key Learnings</h2>
   <ul>
     <li>Developing healthcare KPIs from raw operational data</li>
     <li>Using Power Query for transformation and modeling</li>
@@ -97,7 +93,7 @@
     <li>Communicating insights through data storytelling</li>
   </ul>
 
-  <h2 style="color:#1d4ed8;">🚀 Final Outcome</h2>
+  <h2 style="color:#1d4ed8;"> Final Outcome</h2>
   <p>
     This project demonstrates foundational skills in <strong>data analysis, healthcare analytics,
     and data visualization</strong>, making it suitable for <strong>entry-level or junior data analyst roles</strong>
