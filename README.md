@@ -76,11 +76,6 @@
     <li>Plan staffing and capacity proactively for high-demand seasons</li>
     <li>Use wait-time KPIs to reduce patient walk-outs</li>
   </ul>
-
-  <h2 style="color:#1d4ed8;">📂 Repository Structure</h2>
-  <pre style="background:#f8fafc; padding:12px; border-radius:6px;">
-Emergency-Wait-Time-Analysis/
-│── README.md
 │
 ## 📊 Dashboard Preview
 
@@ -91,7 +86,8 @@ Emergency-Wait-Time-Analysis/
 ![Staffing Analysis](images/staffing_analysis.png)
 
 ### Patient Outcomes
-![Outcomes](images/outcomes.png)
+![Outcomes](<img width="1349" height="752" alt="Screenshot 2026-01-28 142346" src="https://github.com/user-attachments/assets/a2339f41-9d0c-4f4b-ac3b-8924697bf191" />
+)
 
 │
 ├── powerbi/
