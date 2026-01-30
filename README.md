@@ -76,11 +76,9 @@
     <li>Plan staffing and capacity proactively for high-demand seasons</li>
     <li>Use wait-time KPIs to reduce patient walk-outs</li>
   </ul>
-│
-## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](C:\Users\Hp\OneDrive\Pictures\Screenshots)
+![Overview]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 142346.png")
 
 ![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
 
@@ -88,17 +86,7 @@
 ![Outcomes](<img width="1349" height="752" alt="Screenshot 2026-01-28 142346" src="https://github.com/user-attachments/assets/a2339f41-9d0c-4f4b-ac3b-8924697bf191" />
 )
 
-│
-├── powerbi/
-│   └── Emergency_Wait_Time_Dashboard.pbix
-│
-├── images/
-│   ├── overview.png
-│   ├── staffing_analysis.png
-│   └── patient_outcomes.png
-│
-└── excel/
-    └── Data_Cleaning_and_KPIs.xlsx
+│]
   </pre>
 
   <h2 style="color:#1d4ed8;">📘 Key Learnings</h2>
