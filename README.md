@@ -80,7 +80,7 @@
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 142346.png")
+![Overview](C:\Users\Hp\OneDrive\Pictures\Screenshots)
 
 ![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
 
